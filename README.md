@@ -1,4 +1,4 @@
-### Hi, I'm Dino ( MooYong🐷)
+### Hi, I'm Dino 🐷
 
 Personal GitHub used to store various project codes and other programming related codes.
 
