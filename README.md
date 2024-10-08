@@ -4,7 +4,7 @@ Personal GitHub used to store various project codes and other programming relate
 
 - 👋 I'm Churalak Phonthongwichit
 - 🏫 Student at Mahanakorn University of Technology
-- ❤️ I'm passionate about data
+- ❤️ I'm passionate about DATA
 - 🫢 My Favourite Hobby : Reading books and Hitting Mung ^^
 
 <div align="center">
