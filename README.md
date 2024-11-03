@@ -2,7 +2,6 @@
 
 Personal GitHub used to store various project codes and other programming related codes.
 
-- 👋 I'm Churalak Phonthongwichit
 - ❤️ I'm passionate about DATA
 - 🫢 My Favourite Hobby : Reading books and Hitting Mung ^^
 
